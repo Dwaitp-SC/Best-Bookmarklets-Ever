@@ -1,4 +1,4 @@
-# Best-Bookmarklets-Ever
+# Best Bookmarklets Ever!
 The Best Bookmarklets Ever!
 My Collection of Bookmarklets.
 # **Installation**
